@@ -1,0 +1,26 @@
+NOT FOR REDISTRIBUTION
+
+This tables set is a commercial product of Objectif Securite and is
+protected by international copyright law.
+
+It is not allowed to make illegal copies of the product or make it 
+available in any other way to people who did not buy it.
+
+
+NOT FOR HACKING
+
+ophcrack is a tool aimed at security professionals who need to carry
+out audits. In order get password hashes you will either need an
+administrator password or physical access to a machine to be able to reboot
+it. The auditor who already has this type of access will not get
+significantly more access by auditing the password. 
+
+It is not allowed to use the opchrack tables for illegal 
+activities. Objectif Securite may not be held liable for any illegal
+use of them.
+
+
+NOT WHERE FORBIDDEN
+
+Some countries may forbid the import, export or possession of tools
+like ophcrack. Using ophcrack in such countries is illegal.

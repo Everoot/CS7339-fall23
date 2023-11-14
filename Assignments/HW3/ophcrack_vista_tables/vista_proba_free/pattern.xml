@@ -1,0 +1,3955 @@
+<patternArray nbPattern="709">
+	<pattern sizeArray="0xf4240">
+		<element length="6" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x186a0">
+		<element length="5" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xb54ba0">
+		<element length="5" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x989680">
+		<element length="7" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="2" type="LN"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="3" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="4" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x3f7a0">
+		<element length="1" type="LN"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1269ae40">
+		<element length="6" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x3f7a0">
+		<element length="4" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="3" type="LN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x27ac40">
+		<element length="1" type="LN"/>
+		<element length="5" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="4" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x5f5e100">
+		<element length="8" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x27ac40">
+		<element length="5" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0xa50a0">
+		<element length="2" type="LN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="4" type="N"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x714f440">
+		<element length="5" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xb54ba0">
+		<element length="5" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x18cba80">
+		<element length="1" type="LN"/>
+		<element length="6" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x18cba80">
+		<element length="6" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0xa50a0">
+		<element length="3" type="N"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x50910">
+		<element length="4" type="N"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x3f7a0">
+		<element length="1" type="UN"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="3" type="N"/>
+		<element length="3" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x3f7a0">
+		<element length="4" type="N"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0xa79e280">
+		<element length="3" type="LN"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="2" type="UN"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xb54ba0">
+		<element length="1" type="UN"/>
+		<element length="4" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x85c465fe">
+		<element markovLength="8" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="6" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="3" type="UN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x27ac40">
+		<element length="1" type="UN"/>
+		<element length="5" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="1" type="LN"/>
+		<element length="4" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x50910">
+		<element length="2" type="N"/>
+		<element length="1" type="S"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="2" type="N"/>
+		<element length="3" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="4" type="UN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x7e16974">
+		<element markovLength="7" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="5" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x3f7a0">
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="1" type="N"/>
+		<element length="4" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="4" type="UN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x46d18a80">
+		<element length="5" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="3" type="UN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x4af31b6">
+		<element length="1" type="N"/>
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="4" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x27ac40">
+		<element length="5" type="N"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x4077e80">
+		<element length="2" type="LN"/>
+		<element length="5" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="2" type="N"/>
+		<element length="4" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0xa50a0">
+		<element length="2" type="UN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="2" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x50910">
+		<element length="1" type="S"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1269ae40">
+		<element length="6" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x1b3ce680">
+		<element length="4" type="LN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2d5b8c4">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x3b9aca00">
+		<element length="9" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x4af31b6">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="4" type="UM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x4ece1e88">
+		<element markovLength="7" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="5" type="LM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="4" type="N"/>
+		<element length="2" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0xa50a0">
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xa50a0">
+		<element length="1" type="LN"/>
+		<element length="3" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x27ac40">
+		<element length="4" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x7e16974">
+		<element markovLength="7" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="5" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x1debbb280">
+		<element length="7" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x714f440">
+		<element length="1" type="N"/>
+		<element length="5" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x50910">
+		<element length="3" type="N"/>
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x18cba80">
+		<element length="1" type="UN"/>
+		<element length="6" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x27ac40">
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="3" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x4af31b6">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="4" type="LM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x3f7a0">
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="1" type="UN"/>
+		<element length="3" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x27ac40">
+		<element length="3" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xb820ce80">
+		<element length="6" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x714f440">
+		<element length="5" type="UN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x325aa0">
+		<element length="5" type="N"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x27ac40">
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x3f7a0">
+		<element length="3" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="1" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="1" type="UN"/>
+		<element length="2" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="3" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0xa50a0">
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x18cba80">
+		<element length="6" type="N"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x1269ae40">
+		<element length="1" type="UN"/>
+		<element length="5" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0xe61b10">
+		<element length="4" type="LN"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="1" type="N"/>
+		<element length="3" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xf75573f">
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="4" type="LM"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="2" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="2" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="2" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="1" type="UN"/>
+		<element length="3" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xa79e280">
+		<element length="4" type="N"/>
+		<element length="3" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0xa50a0">
+		<element length="3" type="N"/>
+		<element length="2" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x50910">
+		<element length="1" type="N"/>
+		<element length="1" type="S"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xa50a0">
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xf7f4900">
+		<element length="1" type="LN"/>
+		<element length="7" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x741d9">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="U2"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="1" type="N"/>
+		<element length="4" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xa50a0">
+		<element length="2" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0xef7cf9">
+		<element length="1" type="S"/>
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x4077e80">
+		<element length="5" type="N"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x714f440">
+		<element length="4" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="1" type="N"/>
+		<element length="3" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x714f440">
+		<element length="1" type="UN"/>
+		<element length="4" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x741d9">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="UM"/>
+		<element length="2" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="1" type="UN"/>
+		<element length="2" type="LN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="2" type="LN"/>
+		<element length="3" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x325aa0">
+		<element length="2" type="N"/>
+		<element length="1" type="S"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x325aa0">
+		<element length="1" type="S"/>
+		<element length="5" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="1" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x741d9">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="UM"/>
+		<element length="2" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x741d9">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="2" type="UM"/>
+		<element length="1" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x2d5b8c4">
+		<element length="1" type="N"/>
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x325aa0">
+		<element length="3" type="N"/>
+		<element length="1" type="S"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xef7cf9">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0xf7f4900">
+		<element length="7" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="3" type="N"/>
+		<element length="3" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x48927a">
+		<element length="1" type="N"/>
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0xa50a0">
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="3" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x714f440">
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="4" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0xa50a0">
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x714f440">
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="3" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0xef7cf9">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="3" type="UM"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x284af100">
+		<element length="2" type="LN"/>
+		<element length="6" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="1" type="UN"/>
+		<element length="4" type="N"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x75ee064">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x325aa0">
+		<element length="4" type="N"/>
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x714f440">
+		<element length="3" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="1" type="LN"/>
+		<element length="3" type="N"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x741d9">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="2" type="UM"/>
+		<element length="1" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="3" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x175ebfa0">
+		<element length="5" type="LN"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="3" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x37505a0">
+		<element length="3" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x110610100">
+		<element length="4" type="LN"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="4" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1f78a40">
+		<element length="6" type="N"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x109de8">
+		<element length="1" type="S"/>
+		<element length="3" type="N"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="U2"/>
+		<element length="4" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0xa79e280">
+		<element length="3" type="UN"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x3f7a0">
+		<element length="2" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="2" type="N"/>
+		<element length="3" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x220a10">
+		<element length="2" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x325aa0">
+		<element length="1" type="N"/>
+		<element length="1" type="S"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x741d9">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="U2"/>
+		<element length="3" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="2" type="N"/>
+		<element length="3" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x95ae1ba">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="UM"/>
+		<element length="3" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0xa50a0">
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x2540be400">
+		<element length="10" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="1" type="LN"/>
+		<element length="3" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xa62b10">
+		<element length="1" type="S"/>
+		<element length="4" type="N"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x75ee064">
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xa79e280">
+		<element length="2" type="N"/>
+		<element length="3" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x109de8">
+		<element length="1" type="N"/>
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="1" type="UM"/>
+		<element length="3" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x2ed7f11c">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="4" type="UM"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="2" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xa62b10">
+		<element length="1" type="N"/>
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+		<element length="1" type="S"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x588090">
+		<element length="3" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="3" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="1" type="UN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xe61b10">
+		<element length="2" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x11b7c2c90">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2ed7f11c">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="4" type="LM"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x741d9">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="1" type="UM"/>
+		<element length="2" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0xa50a0">
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0xa50a0">
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x4077e80">
+		<element length="2" type="UN"/>
+		<element length="5" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1b3ce680">
+		<element length="3" type="N"/>
+		<element length="4" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0xa62b10">
+		<element length="4" type="N"/>
+		<element length="2" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="1" type="N"/>
+		<element length="4" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="1" type="N"/>
+		<element length="3" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x18cba80">
+		<element length="3" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="3" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xe61b10">
+		<element length="3" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0xe61b10">
+		<element length="1" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="3" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x48927a">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="U2"/>
+		<element length="3" type="UM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x8fd0ea0">
+		<element length="4" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x284af100">
+		<element length="6" type="N"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x48927a">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="2" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0xb54ba0">
+		<element length="4" type="LN"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="3" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="3" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x4af31b6">
+		<element length="1" type="N"/>
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="4" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x3140d3150">
+		<element markovLength="7" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="5" type="LM"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x741d9">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x741d9">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="2" type="LM"/>
+		<element length="1" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x85c465fe">
+		<element markovLength="8" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="6" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x8ef53cba8">
+		<element markovLength="9" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="7" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x82eba0">
+		<element length="1" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1c5937a8">
+		<element length="3" type="N"/>
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x3f7a0">
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2ed7f11c">
+		<element length="2" type="N"/>
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="4" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x1f78a40">
+		<element length="3" type="N"/>
+		<element length="1" type="S"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x4ece1e88">
+		<element length="1" type="N"/>
+		<element markovLength="7" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="5" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x46d18a80">
+		<element length="5" type="UN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x18cba80">
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x48927a">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="3" type="LM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x109de8">
+		<element length="2" type="S"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x731481100">
+		<element length="6" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="2" type="N"/>
+		<element length="4" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0xb54ba0">
+		<element length="1" type="UN"/>
+		<element length="3" type="LN"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="2" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x27ac40">
+		<element length="4" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x18cba80">
+		<element length="4" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x109de8">
+		<element length="3" type="N"/>
+		<element length="2" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x2d5b8c4">
+		<element length="2" type="N"/>
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="3" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x741d9">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="U2"/>
+		<element length="2" type="LM"/>
+		<element length="1" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x741d9">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x741d9">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="1" type="LM"/>
+		<element length="2" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x220a10">
+		<element length="1" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xb54ba0">
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0xa79e280">
+		<element length="1" type="UN"/>
+		<element length="2" type="LN"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x15464a0">
+		<element length="2" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1b3ce680">
+		<element length="4" type="UN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x68c2d900">
+		<element length="3" type="LN"/>
+		<element length="5" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="2" type="LM"/>
+		<element length="2" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="2" type="N"/>
+		<element length="2" type="UN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1d46f6b18">
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="4" type="LM"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x48927a">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x4077e80">
+		<element length="1" type="LN"/>
+		<element length="5" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x2c42f6900">
+		<element length="5" type="LN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1c5937a8">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="3" type="UM"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="UN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x46d18a80">
+		<element length="2" type="N"/>
+		<element length="5" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x1f78a40">
+		<element length="4" type="N"/>
+		<element length="1" type="S"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1c5937a8">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x714f440">
+		<element length="1" type="N"/>
+		<element length="5" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="U2"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="LM"/>
+		<element length="3" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0xb54ba0">
+		<element length="1" type="LN"/>
+		<element length="4" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x4ece1e88">
+		<element markovLength="7" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="5" type="UM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="2" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x1240ea8">
+		<element length="1" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0xa50a0">
+		<element length="3" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0xa50a0">
+		<element length="1" type="UN"/>
+		<element length="3" type="N"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x82eba0">
+		<element length="1" type="LN"/>
+		<element length="4" type="N"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="U2"/>
+		<element length="4" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="UM"/>
+		<element length="3" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="1" type="UN"/>
+		<element length="4" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x4ece1e88">
+		<element markovLength="7" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="5" type="LM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1240ea8">
+		<element length="2" type="LN"/>
+		<element length="2" type="S"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x27ac40">
+		<element length="2" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x48927a">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="2" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x741d9">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="U2"/>
+		<element length="2" type="UM"/>
+		<element length="1" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x741d9">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x539abfbec">
+		<element markovLength="8" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="6" type="LM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="4" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="2" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x1f78a40">
+		<element length="2" type="N"/>
+		<element length="1" type="S"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="2" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0xb54ba0">
+		<element length="2" type="UN"/>
+		<element length="3" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x1240ea8">
+		<element length="3" type="LN"/>
+		<element length="2" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x1f78a40">
+		<element length="1" type="S"/>
+		<element length="6" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x85c465fe">
+		<element markovLength="8" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="6" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x109de8">
+		<element length="1" type="N"/>
+		<element length="2" type="S"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x220a10">
+		<element length="2" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="3" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0xd1790">
+		<element length="1" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="3" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="UN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x27ac40">
+		<element length="3" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="4" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x95ae1ba">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="1" type="N"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x15464a0">
+		<element length="1" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="1" type="LN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x175ebfa0">
+		<element length="1" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="4" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x37505a0">
+		<element length="3" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="3" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x82eba0">
+		<element length="4" type="N"/>
+		<element length="1" type="S"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="2" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x18cba80">
+		<element length="5" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xe61b10">
+		<element length="4" type="UN"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="2" type="LM"/>
+		<element length="2" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0xf7f4900">
+		<element length="1" type="UN"/>
+		<element length="7" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x95ae1ba">
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x4077e80">
+		<element length="2" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xa50a0">
+		<element length="1" type="UN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xa50a0">
+		<element length="2" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0xa50a0">
+		<element length="2" type="N"/>
+		<element length="2" type="UN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xf75573f">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="4" type="LM"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x7e16974">
+		<element markovLength="7" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="2" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="2" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="UN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="2" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="2" type="LN"/>
+		<element length="1" type="UN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="2" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x48927a">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="UM"/>
+		<element length="2" type="LM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xe61b10">
+		<element length="1" type="S"/>
+		<element length="4" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x2d5b8c4">
+		<element length="2" type="N"/>
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x1b3ce680">
+		<element length="1" type="UN"/>
+		<element length="3" type="LN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x82eba0">
+		<element length="1" type="UN"/>
+		<element length="1" type="S"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x25528a1">
+		<element length="5" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x48927a">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x175ebfa0">
+		<element length="2" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="3" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="2" type="UM"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="2" type="UM"/>
+		<element length="2" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x4af31b6">
+		<element length="1" type="N"/>
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="4" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0xa62b10">
+		<element length="2" type="N"/>
+		<element length="1" type="S"/>
+		<element length="2" type="N"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="1" type="LN"/>
+		<element length="1" type="UN"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xd1790">
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xd1790">
+		<element length="3" type="N"/>
+		<element length="1" type="S"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x67daea0">
+		<element length="1" type="N"/>
+		<element length="1" type="S"/>
+		<element length="2" type="N"/>
+		<element length="1" type="S"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x4077e80">
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1f78a40">
+		<element length="5" type="N"/>
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="3" type="UM"/>
+		<element length="1" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="1" type="N"/>
+		<element length="3" type="UN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x220a10">
+		<element length="2" type="N"/>
+		<element length="1" type="S"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0xf75573f">
+		<element length="1" type="S"/>
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="4" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x4077e80">
+		<element length="5" type="N"/>
+		<element length="2" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x8fd0ea0">
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+		<element length="4" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="3" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x7e16974">
+		<element markovLength="7" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="4" type="LM"/>
+		<element length="1" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x18cba80">
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="5" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1852b14a">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="1" type="S"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x2ed7f11c">
+		<element length="1" type="N"/>
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="4" type="LM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x67daea0">
+		<element length="2" type="N"/>
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+		<element length="1" type="S"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xf7f4900">
+		<element length="7" type="N"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0xa62b10">
+		<element length="2" type="S"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x741d9">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x741d9">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="U2"/>
+		<element length="1" type="UM"/>
+		<element length="2" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x741d9">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="U2"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0xa79e280">
+		<element length="4" type="N"/>
+		<element length="3" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x588090">
+		<element length="3" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x175ebfa0">
+		<element length="4" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x1da97d10">
+		<element length="4" type="LN"/>
+		<element length="2" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x15464a0">
+		<element length="2" type="LN"/>
+		<element length="3" type="N"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="1" type="UN"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x4077e80">
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="5" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1040e97f4">
+		<element markovLength="7" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="5" type="LM"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="2" type="UN"/>
+		<element length="2" type="N"/>
+		<element length="2" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x1852b14a">
+		<element length="1" type="LN"/>
+		<element length="1" type="S"/>
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="2" type="UM"/>
+		<element length="2" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x588090">
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+		<element length="3" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="1" type="N"/>
+		<element length="4" type="UN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1240ea8">
+		<element length="1" type="S"/>
+		<element length="3" type="LN"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0xe61b10">
+		<element length="1" type="UN"/>
+		<element length="3" type="LN"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x59e29240">
+		<element length="4" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x109de8">
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+		<element length="1" type="S"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x109de8">
+		<element length="1" type="N"/>
+		<element length="1" type="S"/>
+		<element length="2" type="N"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x4077e80">
+		<element length="3" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x284af100">
+		<element length="1" type="LN"/>
+		<element length="6" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x5d8cd144">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="1" type="S"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xf75573f">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="4" type="UM"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x220a10">
+		<element length="1" type="UN"/>
+		<element length="1" type="S"/>
+		<element length="1" type="UN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x220a10">
+		<element length="2" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x1b3ce680">
+		<element length="2" type="LN"/>
+		<element length="3" type="N"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x110610100">
+		<element length="4" type="N"/>
+		<element length="4" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="U2"/>
+		<element length="2" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="2" type="LM"/>
+		<element length="2" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x175ebfa0">
+		<element length="3" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x82eba0">
+		<element length="4" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x7e16974">
+		<element markovLength="7" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="3" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="2" type="UN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="2" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="1" type="LN"/>
+		<element length="2" type="UN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="1" type="UN"/>
+		<element length="2" type="N"/>
+		<element length="2" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x2d5b8c4">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x9af8da00">
+		<element length="1" type="LN"/>
+		<element length="8" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1edf1c19">
+		<element length="1" type="S"/>
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x48927a">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="U2"/>
+		<element length="3" type="LM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2d5b8c4">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="2" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x4077e80">
+		<element length="4" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x15464a0">
+		<element length="3" type="N"/>
+		<element length="1" type="S"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0xa62b10">
+		<element length="2" type="N"/>
+		<element length="2" type="S"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="2" type="LN"/>
+		<element length="1" type="UN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="3" type="N"/>
+		<element length="2" type="UN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xb54ba0">
+		<element length="2" type="LN"/>
+		<element length="3" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0xd4bee40">
+		<element length="2" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xa79e280">
+		<element length="2" type="LN"/>
+		<element length="4" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x8fd0ea0">
+		<element length="4" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x588090">
+		<element length="1" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x27ac40">
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x37505a0">
+		<element length="3" type="UN"/>
+		<element length="1" type="S"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="2" type="UN"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="3" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="UM"/>
+		<element length="2" type="LM"/>
+		<element length="1" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0xe61b10">
+		<element length="1" type="UN"/>
+		<element length="1" type="S"/>
+		<element length="3" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0xa79e280">
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xb54ba0">
+		<element length="1" type="UN"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x1edf1c19">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="2" type="S"/>
+	</pattern>
+	<pattern sizeArray="0xa79e280">
+		<element length="1" type="LN"/>
+		<element length="4" type="N"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="2" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="3" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="1" type="LN"/>
+		<element length="2" type="UN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x714f440">
+		<element length="4" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0xef7cf9">
+		<element length="1" type="S"/>
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="3" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x82eba0">
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="S"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1da97d10">
+		<element length="1" type="S"/>
+		<element length="4" type="LN"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x588090">
+		<element length="1" type="N"/>
+		<element length="1" type="S"/>
+		<element length="3" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x284af100">
+		<element length="2" type="UN"/>
+		<element length="6" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x4af31b6">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x22923840">
+		<element length="3" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x220a10">
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="S"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1b3ce680">
+		<element length="1" type="LN"/>
+		<element length="3" type="N"/>
+		<element length="3" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="1" type="N"/>
+		<element length="2" type="UN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x4077e80">
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="2" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="1" type="LN"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xb820ce80">
+		<element length="3" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="3" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0xa79e280">
+		<element length="1" type="N"/>
+		<element length="3" type="LN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2d5b8c4">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="U2"/>
+		<element length="3" type="UM"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x7e16974">
+		<element markovLength="7" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x7e16974">
+		<element markovLength="7" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="4" type="LM"/>
+		<element length="1" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="2" type="UM"/>
+		<element length="2" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x48927a">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="UM"/>
+		<element length="2" type="LM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x48927a">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="1" type="UM"/>
+		<element length="2" type="LM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x48927a">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="2" type="UN"/>
+		<element length="2" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="1" type="UN"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="UN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x4af31b6">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="2" type="LM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x95ae1ba">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2d5b8c4">
+		<element length="1" type="N"/>
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="3" type="UM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x9af8da00">
+		<element length="8" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x40e8d240">
+		<element length="2" type="N"/>
+		<element length="1" type="S"/>
+		<element length="2" type="N"/>
+		<element length="1" type="S"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="3" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="2" type="UN"/>
+		<element length="3" type="N"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x1b3ce680">
+		<element length="3" type="LN"/>
+		<element length="3" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="1" type="LN"/>
+		<element length="4" type="N"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0xb54ba0">
+		<element length="3" type="LN"/>
+		<element length="2" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="1" type="UN"/>
+		<element length="2" type="N"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1ad1a0">
+		<element length="1" type="LN"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x7e16974">
+		<element markovLength="7" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="5" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0xb820ce80">
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="4" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x68c2d900">
+		<element length="5" type="N"/>
+		<element length="3" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="1" type="UN"/>
+		<element length="2" type="N"/>
+		<element length="3" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0xa79e280">
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x2d5b8c4">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="3" type="LM"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="1" type="UN"/>
+		<element length="3" type="N"/>
+		<element length="2" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="1" type="N"/>
+		<element length="3" type="UN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x714f440">
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="4" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x48927a">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="UM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x48927a">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="U2"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x48927a">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="LM"/>
+		<element length="2" type="UM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="3" type="UN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x82eba0">
+		<element length="1" type="UN"/>
+		<element length="4" type="N"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="4" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x588090">
+		<element length="1" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x2d5b8c4">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="2" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x9a956876">
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="4" type="LM"/>
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x7e16974">
+		<element markovLength="7" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="UM"/>
+		<element length="4" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x4077e80">
+		<element length="1" type="LN"/>
+		<element length="3" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x4077e80">
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1b3ce680">
+		<element length="1" type="N"/>
+		<element length="4" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x46d18a80">
+		<element length="2" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="3" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x2245ae8">
+		<element length="3" type="N"/>
+		<element length="3" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x79cb0c7c">
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="4" type="LM"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0xe61b10">
+		<element length="2" type="UN"/>
+		<element length="1" type="S"/>
+		<element length="2" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x714f440">
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="4" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x1c5937a8">
+		<element length="1" type="N"/>
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x220a10">
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x220a10">
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x220a10">
+		<element length="2" type="UN"/>
+		<element length="1" type="S"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x220a10">
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x220a10">
+		<element length="2" type="UN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="LM"/>
+		<element length="2" type="UM"/>
+		<element length="1" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="3" type="LM"/>
+		<element length="1" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="4" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="LM"/>
+		<element length="2" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="1" type="LN"/>
+		<element length="3" type="UN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x714f440">
+		<element length="1" type="UN"/>
+		<element length="3" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x4af31b6">
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x588090">
+		<element length="3" type="UN"/>
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x714f440">
+		<element length="3" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x7e16974">
+		<element markovLength="7" type="L1"/>
+		<element length="1" type="U2"/>
+		<element length="5" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x13ab6680">
+		<element length="7" type="N"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x1f78a40">
+		<element length="1" type="N"/>
+		<element length="1" type="S"/>
+		<element length="5" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x48927a">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="2" type="UM"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x8fd0ea0">
+		<element length="4" type="UN"/>
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xd4bee40">
+		<element length="1" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="1" type="LN"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xef7cf9">
+		<element length="1" type="S"/>
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0xa62b10">
+		<element length="1" type="S"/>
+		<element length="2" type="N"/>
+		<element length="1" type="S"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x75ee064">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="3" type="UM"/>
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x95ae1ba">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="3" type="UM"/>
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x82eba0">
+		<element length="1" type="S"/>
+		<element length="4" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0xa79e280">
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="UN"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xa79e280">
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x15464a0">
+		<element length="2" type="UN"/>
+		<element length="1" type="S"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="UN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xe61b10">
+		<element length="1" type="UN"/>
+		<element length="1" type="S"/>
+		<element length="3" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x46d18a80">
+		<element length="3" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x4af31b6">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="4" type="LM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xb820ce80">
+		<element length="4" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x13ab6680">
+		<element length="3" type="N"/>
+		<element length="1" type="S"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="3" type="LN"/>
+		<element length="1" type="UN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x75ee064">
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x18cba80">
+		<element length="3" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x714f440">
+		<element length="2" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="3" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0xbfa2ca28">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x11b7c2c90">
+		<element length="4" type="N"/>
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="2" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="UN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x37505a0">
+		<element length="1" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="2" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1b3ce680">
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="1" type="UN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="2" type="UN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="2" type="N"/>
+		<element length="3" type="UN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x4179c7a00">
+		<element length="3" type="LN"/>
+		<element length="6" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xa62b10">
+		<element length="1" type="N"/>
+		<element length="1" type="S"/>
+		<element length="2" type="N"/>
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xa62b10">
+		<element length="2" type="N"/>
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1240ea8">
+		<element length="2" type="S"/>
+		<element length="3" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x37505a0">
+		<element length="1" type="UN"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x8fd0ea0">
+		<element length="1" type="N"/>
+		<element length="1" type="S"/>
+		<element length="4" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0xa79e280">
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x110610100">
+		<element length="4" type="UN"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x4634c10">
+		<element length="1" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x46d18a80">
+		<element length="1" type="N"/>
+		<element length="4" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x4af31b6">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x82eba0">
+		<element length="2" type="N"/>
+		<element length="1" type="S"/>
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x2245ae8">
+		<element length="3" type="S"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x18cba80">
+		<element length="2" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x37505a0">
+		<element length="2" type="N"/>
+		<element length="1" type="S"/>
+		<element length="3" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x588090">
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="2" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1240ea8">
+		<element length="1" type="UN"/>
+		<element length="1" type="S"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="S"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x705468">
+		<element length="1" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x284af100">
+		<element length="6" type="N"/>
+		<element length="2" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x79cb0c7c">
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="4" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x2d5b8c4">
+		<element length="1" type="N"/>
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x75ee064">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x22923840">
+		<element length="3" type="LN"/>
+		<element length="3" type="N"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="2" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x18cba80">
+		<element length="4" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x37505a0">
+		<element length="2" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="UM"/>
+		<element length="2" type="LM"/>
+		<element length="1" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x4af31b6">
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="U2"/>
+		<element length="4" type="UM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="U2"/>
+		<element length="1" type="UM"/>
+		<element length="3" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="LM"/>
+		<element length="2" type="UM"/>
+		<element length="1" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="U2"/>
+		<element length="1" type="LM"/>
+		<element length="2" type="UM"/>
+		<element length="1" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="U2"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="2" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="3" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x48927a">
+		<element length="1" type="N"/>
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="UM"/>
+		<element length="2" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x48927a">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="2" type="UM"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x48927a">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="UM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x48927a">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="LM"/>
+		<element length="2" type="UM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x48927a">
+		<element length="1" type="N"/>
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="2" type="LM"/>
+		<element length="1" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x48927a">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="2" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x15464a0">
+		<element length="2" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x15464a0">
+		<element length="1" type="UN"/>
+		<element length="1" type="S"/>
+		<element length="1" type="UN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x8fd0ea0">
+		<element length="1" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="3" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xa79e280">
+		<element length="2" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x110610100">
+		<element length="1" type="UN"/>
+		<element length="3" type="LN"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="3" type="UN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2245ae8">
+		<element length="1" type="N"/>
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x4077e80">
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x37505a0">
+		<element length="3" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x4af31b6">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="1" type="UM"/>
+		<element length="3" type="LM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1b3ce680">
+		<element length="3" type="N"/>
+		<element length="4" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x4077e80">
+		<element length="1" type="UN"/>
+		<element length="5" type="N"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="1" type="UN"/>
+		<element length="3" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="2" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="2" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x284af100">
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="6" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x82eba0">
+		<element length="1" type="S"/>
+		<element length="1" type="LN"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x7e16974">
+		<element markovLength="7" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="1" type="UM"/>
+		<element length="4" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x46d18a80">
+		<element length="4" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0xa79e280">
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="1" type="N"/>
+		<element length="3" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="1" type="LN"/>
+		<element length="3" type="UN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xbfa2ca28">
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x4af31b6">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="UM"/>
+		<element length="3" type="LM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x49b4c3e8">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x124c5a2ef0">
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="4" type="LM"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x5d8cd144">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="2" type="N"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x15464a0">
+		<element length="3" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x37505a0">
+		<element length="1" type="S"/>
+		<element length="3" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1b3ce680">
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x51d3440">
+		<element length="1" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="5" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xa79e280">
+		<element length="2" type="N"/>
+		<element length="3" type="UN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x59e29240">
+		<element length="4" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x1240ea8">
+		<element length="1" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x1240ea8">
+		<element length="3" type="UN"/>
+		<element length="2" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x4077e80">
+		<element length="1" type="LN"/>
+		<element length="4" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x37505a0">
+		<element length="2" type="N"/>
+		<element length="3" type="LN"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x95ae1ba">
+		<element length="1" type="N"/>
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x7e16974">
+		<element markovLength="7" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="2" type="UM"/>
+		<element length="3" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="1" type="UN"/>
+		<element length="3" type="N"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x49b4c3e8">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x8fd0ea0">
+		<element length="1" type="N"/>
+		<element length="4" type="LN"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="LM"/>
+		<element length="3" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="U2"/>
+		<element length="3" type="LM"/>
+		<element length="1" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x2d5b8c4">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="1" type="UM"/>
+		<element length="2" type="LM"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0xd4bee40">
+		<element length="2" type="LN"/>
+		<element length="4" type="N"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x51d3440">
+		<element length="5" type="N"/>
+		<element length="1" type="S"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x11b7c2c90">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x4cfa3cc1">
+		<element length="6" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x46d18a80">
+		<element length="4" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x15464a0">
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="S"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x8fd0ea0">
+		<element length="1" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+		<element length="3" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x4077e80">
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x714f440">
+		<element length="1" type="UN"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x75ee064">
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="3" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x67daea0">
+		<element length="5" type="N"/>
+		<element length="2" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x110610100">
+		<element length="2" type="N"/>
+		<element length="4" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xe61b10">
+		<element length="3" type="UN"/>
+		<element length="1" type="S"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="1" type="UN"/>
+		<element length="2" type="N"/>
+		<element length="3" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x95ae1ba">
+		<element length="1" type="N"/>
+		<element length="1" type="S"/>
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x4077e80">
+		<element length="4" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="1" type="UN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x172b024">
+		<element length="2" type="LN"/>
+		<element length="3" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x8fd0ea0">
+		<element length="2" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1c5937a8">
+		<element length="3" type="N"/>
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="3" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x1b3ce680">
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="3" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="1" type="UN"/>
+		<element length="3" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x672640">
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="1" type="LN"/>
+		<element length="1" type="UN"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="2" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="2" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="3" type="LN"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="3" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="2" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="1" type="N"/>
+		<element length="3" type="LN"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x45baa0">
+		<element length="2" type="LN"/>
+		<element length="2" type="UN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x67daea0">
+		<element length="1" type="S"/>
+		<element length="5" type="N"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x714f440">
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="3" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0xf7f4900">
+		<element length="4" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="3" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x4634c10">
+		<element length="2" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="2" type="S"/>
+	</pattern>
+	<pattern sizeArray="0xa79e280">
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x48927a">
+		<element length="1" type="N"/>
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="3" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x48927a">
+		<element length="1" type="N"/>
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="2" type="LM"/>
+		<element length="1" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x48927a">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="U2"/>
+		<element length="2" type="UM"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x48927a">
+		<element length="1" type="N"/>
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="2" type="UM"/>
+		<element length="1" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x48927a">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="U2"/>
+		<element length="2" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x11b7c2c90">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="3" type="UM"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x7e16974">
+		<element markovLength="7" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="2" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="1" type="UN"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="1" type="UN"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x284af100">
+		<element length="4" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x46d18a80">
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="4" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0xf7f4900">
+		<element length="3" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="4" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x95ae1ba">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="1" type="N"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x2d5b8c4">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="UM"/>
+		<element length="2" type="LM"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="1" type="UN"/>
+		<element length="2" type="N"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x10c3040">
+		<element length="2" type="N"/>
+		<element length="2" type="UN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="UN"/>
+	</pattern>
+	<pattern sizeArray="0x8fd0ea0">
+		<element length="1" type="UN"/>
+		<element length="3" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xe61b10">
+		<element length="1" type="UN"/>
+		<element length="2" type="LN"/>
+		<element length="1" type="S"/>
+		<element length="1" type="LN"/>
+	</pattern>
+	<pattern sizeArray="0x51d3440">
+		<element length="1" type="LN"/>
+		<element length="5" type="N"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x95ae1ba">
+		<element length="1" type="S"/>
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="3" type="LM"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x7e16974">
+		<element markovLength="7" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="2" type="LM"/>
+		<element length="3" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0xa79e280">
+		<element length="3" type="N"/>
+		<element length="3" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xa79e280">
+		<element length="1" type="LN"/>
+		<element length="2" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x3140d3150">
+		<element markovLength="7" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="5" type="UM"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0xef7cf9">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="2" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0xef7cf9">
+		<element markovLength="5" type="U1"/>
+		<element length="1" type="L2"/>
+		<element length="2" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="S"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="LM"/>
+		<element length="2" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="U2"/>
+		<element length="2" type="UM"/>
+		<element length="2" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="UM"/>
+		<element length="1" type="LM"/>
+	</pattern>
+	<pattern sizeArray="0x77eb5f">
+		<element markovLength="6" type="U1"/>
+		<element length="1" type="U2"/>
+		<element length="2" type="UM"/>
+		<element length="1" type="LM"/>
+		<element length="1" type="UM"/>
+	</pattern>
+	<pattern sizeArray="0x2d5b8c4">
+		<element markovLength="5" type="L1"/>
+		<element length="1" type="U2"/>
+		<element length="3" type="LM"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x110610100">
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+		<element length="1" type="LN"/>
+		<element length="1" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="1" type="LN"/>
+		<element length="1" type="UN"/>
+		<element length="2" type="LN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x2b94a40">
+		<element length="2" type="LN"/>
+		<element length="2" type="UN"/>
+		<element length="2" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x192ed6a00">
+		<element length="2" type="LN"/>
+		<element length="7" type="N"/>
+	</pattern>
+	<pattern sizeArray="0x1ccbf967fb">
+		<element markovLength="8" type="L1"/>
+		<element length="1" type="L2"/>
+		<element length="6" type="LM"/>
+		<element length="2" type="N"/>
+	</pattern>
+</patternArray>
