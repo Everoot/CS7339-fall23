@@ -12,8 +12,8 @@
 - [ ] Lecture 8 10.19.23
 - [x] Lecture 9 10.26.23
 - [x] Lecture 10 11.02.23
-- [ ] Lecture 11
-- [ ] Lecture 12
+- [ ] Lecture 11 11.16.23
+- [ ] Lecture 12 11.30.23
 - [ ] Lecture 13
 
 
@@ -49,5 +49,5 @@
 
 ## Project
 
-- [ ] Paper
+- [x] Paper
 
