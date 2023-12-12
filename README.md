@@ -1,6 +1,6 @@
 # CS7339-fall23
 
-## Videos
+## Lectures
 
 - [x] Lecture 1 08.24.23
 - [x] Lecture 2 08.31.23
